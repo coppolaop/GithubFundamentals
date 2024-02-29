@@ -2,8 +2,8 @@
 We are [Marcos](https://github.com/coppolaop) and [Igor](https://github.com/flaigor)
 
 ## Our certification topics
-- [ ] Domain 1: Introduction to Git and GitHub (22% of the test)
-- - [ ] Git and GitHub Basics
+- [x] Domain 1: Introduction to Git and GitHub (22% of the test)
+- - [x] Git and GitHub Basics
 - - - [x] Describe version control
 - - - [x] Define distributed version control
 - - - [x] Describe Git
@@ -13,7 +13,7 @@ We are [Marcos](https://github.com/coppolaop) and [Igor](https://github.com/flai
 - - - [x] Describe a commit
 - - - [x] Describe branching
 - - - [x] Define a remote in Git terminology
-- - - [ ] Describe the GitHub flow
+- - - [x] Describe the GitHub flow
 - - [x] GitHub Entities
 - - - [x] Describe the different GitHub accounts (personal, organization, enterprise)
 - - - [x] Describe GitHub’s products for personal accounts (free, pro)
