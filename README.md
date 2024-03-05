@@ -1,5 +1,6 @@
 # Welcome to our repository of studying for GitHub Fundamentals certification lab!
-We are [Marcos](https://github.com/coppolaop) and [Igor](https://github.com/flaigor)
+We are [Marcos](https://github.com/coppolaop) and [Igor](https://github.com/flaigor)</br>
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/coppolaop/GithubFundamentals)
 
 ## Our certification topics
 - [x] Domain 1: Introduction to Git and GitHub (22% of the test)
